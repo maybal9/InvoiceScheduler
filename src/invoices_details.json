@@ -1,0 +1,23 @@
+{ 
+	"invoices": 
+	[
+		{
+			"invoice_id": 1234567,
+			"amount": 500.56,
+			"creation_date": 1234567899,
+			"description": "the invoice for a provided services",
+			"due_date": 2234567899,
+			"company_name": "some-company-name",
+			"customer_email": "some-domain@gmail.com"
+		},
+		{
+			"invoice_id": 1234568,
+			"amount": 90.56,
+			"creation_date": 1234567899,
+			"description": "the invoice for a provided services",
+			"due_date": 2234567899,
+			"company_name": "some-company-name",
+			"customer_email": "some-domain@gmail.com"
+		}
+	]
+}
